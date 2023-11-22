@@ -1,0 +1,16 @@
+site_name: Convert
+site_url: https://kenudeh.github.io/convert
+nav:
+  -  Overview: index.md
+  -  Getting Started: gettingstarted.md
+  -  Account Veirifcation : verification.md
+  -  Sell Airtime: sellairtime.md
+  -  Payment: payment.md
+  -  Service Charge: charges.md
+  -  Dispute Resolution: dispute.md
+  -  Referral: referral.md
+  -  FAQs: faqs.md
+  -  Glossary: glossary.md
+theme: readthedocs
+markdown_extentions:
+  - attr_list 
