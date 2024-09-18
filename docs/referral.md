@@ -1,16 +1,16 @@
 ## Referral Program
 
-For every new user you refer to Convert that completes a transaction, you will get a ₦50.00 reward. To start earning, follow the steps below to obtain your unique referral link:
+For every new user you refer to Convert who completes a transaction, you will earn ₦200. To start earning, follow these steps to obtain your referral link:
 
-1. Click the **Profile** icon at the top right corner of the screen.<br></br>
+1. Click the **Profile** icon at the top right of the screen<br></br>
 
-2. Select **Rewards** from the drop-down to go to the rewards page.<br></br>
-
-3. Click the **Referrals** tab to view your referral code.<br></br>
-
-4. Copy the code and share it with your friends.
+2. Select **Rewards** from the displayed menu to access the rewards page
 <br></br>
 
-Your earnings from our referral program can only be paid out when they accumulate to a minimum of ₦1,000.
+3. On the **Rewards** page, click the **Generate Referral Code** button to obtain your referral link<br></br>
 
+4. Share the link with your friends to start earning
+<br></br>
+
+Your earnings will be credited to your bank account once they accumulate to a minimum of ₦1,000.
 <br></br>

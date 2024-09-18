@@ -1,49 +1,52 @@
 ## Getting Started with Convert
 
-Welcome to Convert - the best way to exchange airtime for money in Nigeria! This quick guide will give you a hands-on approach to selling airtime on our platform. Here is how it works:
+Welcome to Convert—the best way to exchange airtime for money in Nigeria! This tutorial will guide you through the process of selling airtime on our platform. Here is how it works:
 
-1. Create an account.<br></br>
+1. Create an account<br></br>
 
-2. Transfer airtime.<br></br>
+2. Transfer airtime<br></br>
 
-3. Get paid.
+3. Get paid
 
-Let's get started.<br></br>
+Let us get started.<br></br>
 
 ### **Create an account**
-To start selling airtime on our platform, you need to create a free account by following the steps outlined below:
+Follow these steps to create a free account:
 
-1. Visit the [signup](example.com) page.
+1. Visit the [signup](https://convert.com.ng/signup) page
 <br></br>
 
-2. Enter your details (name, address, phone number, email, and others).
+2. Enter your personal information such as name, address, phone number, and email in the **Personal Information** section
 <br></br>
 
-3. Enter your banking information.
+3. Enter your bank account number, account name, and account type in the **Banking section**
 <br></br>
 
-4. Click **Create Account**.
+4. Click on **Create Account**
 
 We will send you a verification email with a link to complete your registration.<br></br>
 
 
 
 ### **Transfer airtime**
-The procedure to transfer airtime depends on the service provider.
+The procedure to transfer airtime depends on your service provider:
 
-For MTN:
-Dial *321 * Recipient's number * Amount * PIN# and click Ok/Send on your phone.
+**For MTN:** <br></br>
+1. Dial *321 * Recipient's number * Amount * PIN# and <br></br>
+2. Click Ok or Send
 
-For Airtel:
-Dail *432 * Recipient's number * Amount# and click Ok/Send on your phone.
 
-See the [sell airtime](http://127.0.0.1:8000/convert/sellairtime/) section for a comprehensive guide on how to transfer airtime between phones.<br></br>
+**For Airtel:** <br></br>
+1. Dail *432 * Recipient's number * Amount * PIN# <br></br>
+2. Click Ok or Send
 
+Note: We will provide you with the recipient’s number when you initiate a transfer. See the [sell airtime](https://jocular-cascaron-5cba34.netlify.app/sellairtime/) section for a comprehensive guide on transferring airtime or changing your PIN.
 
 ### **Get paid**
-Once we confirm your airtime transfer, we will credit the bank account in your profile with the appropriate amount of money.
+Once we confirm your airtime transfer, we will credit the bank account listed in your profile with the corresponding amount of money.
 
-The final payout depends on the volume of airtime sold and the applicable service charge. See the [service charge](http://127.0.0.1:8000/convert/charges/) section for a complete breakdown of how we calculate charges.
+The final payout depends on the volume of airtime sold and the applicable service charge. See the [service charge](https://jocular-cascaron-5cba34.netlify.app/charges/) section for a complete breakdown of how we calculate charges.
+
 
 
 

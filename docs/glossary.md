@@ -1,13 +1,13 @@
 ## Glossary
 
-**Airtime**: credit used to make calls, or send messages across a mobile network.
+**Airtime**:  Credit used for making calls or sending messages across a mobile network.
 
-**MTN**: a telecom service provider in Nigeria.
+**MTN**: A telecom service provider in Nigeria.
 
-**Airtel**: a telecom service provider in Nigeria.
+**Airtel**: A telecom service provider in Nigeria.
 
-**Payout**: the total amount due to you after we deduct our charge.
+**Payout**: The amount credited to you after deducting service charges
 
-**Ticket**: a transaction order you generate by initiating an airtime conversion request.
+**Ticket**: A transaction order generated when you initiate an airtime conversion request
 
 <br></br>

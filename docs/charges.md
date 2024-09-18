@@ -1,5 +1,10 @@
 ## Convert's Service Charge
-Our service charge for each transaction depends on the network provider whose airtime you are selling. We charge 10% for MTN and 12% for Airtel. The following table explains more: <br></br>
+The service charge for each transaction depends on the network provider. We apply the following rates: 
+
+* 10% for MTN 
+* 12% for Airtel
+
+Refer to the table below for more details:
 
 | Service provider | Airtime sold | Service charge | Payable amount |
 |------------------|--------------|----------------|----------------|

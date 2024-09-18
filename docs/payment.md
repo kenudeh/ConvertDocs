@@ -1,17 +1,16 @@
 ## Payments
 
-We will send payments for completed transactions to the bank account in your profile. To change your banking information, go through the following steps:
+Payments for completed transactions are sent to the bank account listed in your profile. To update your banking information:
 
-1. Click the **Profile icon** at the top right of your screen.<br></br>
+1. Click on the **Profile icon** at the top right of your screen<br></br>
 
-2. Select **Payments** from the drop-down.<br></br>
+2. Select **Payments** from the displayed menu<br></br>
 
-3. On the **Payments Page**, click the **Update Payment** tab.<br></br>
+3. On the **Payments** page, click the **Update Payment** tab<br></br>
 
-4. Enter your new banking information.<br></br>
+4. Enter your new banking information<br></br>
 
-5. Click the **Update** button to save your changes.<br></br>
+5. Click the **Update** button at the bottom of the page to save your changes<br></br>
 
-We will send subsequent payments to the new bank account, provided it belongs to you.
-
+We will send future payments to the updated bank account, provided it matches the personal information in your profile.
 <br></br>

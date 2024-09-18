@@ -4,9 +4,9 @@
 
 <details>
     <summary>
-        What is the maximum amount of airtime I can sell?
+        What is the maximum amount of airtime I can sell daily?
     </summary>
-        We currently allow a lifetime maximum of ₦10,000 for unverified users and a daily cap of ₦50,000 for verified users.
+        Unverified users have a lifetime maximum limit of ₦10,000. Verified users can sell up to ₦50,000 per day.
 </details>
 
 <details>
@@ -24,40 +24,40 @@
     <summary>
         What are your hours of operation?
     </summary>
-        Our support team is available from 8 a.m. to 9 p.m. on weekdays and from 10 a.m. to 7 p.m. every weekend.
+        Our support team is available from 8 a.m. to 9 p.m. on weekdays and 10 a.m. to 7 p.m. on weekends.
 </details>
 
 <details>
     <summary>
        Can I buy airtime from Convert?
     </summary>
-        This feature is still under development.
+        This feature is currently under development.
 </details>
 <details>
     <summary>
         Can I buy data?
     </summary>
-        This feature is still under development.
+        This feature is currently under development.
 </details>
 <details>
     <summary>
         Can I make utility payments from my Convert account?
     </summary>
-        This feature is still under development. We will notify users once it is ready.
+        This feature is under development. We will notify users when it becomes available.
 </details>
 
 <details>
     <summary>
         Why should I trust Convert?
     </summary>
-    Convert.com.ng is a registered business in Nigeria with registration number: A3H23BC. Say hello to us at 43 Zik Avenue, Awka, Anambra State.
+   Convert.com.ng is a registered business in Nigeria with registration number A3H2020BC. You can visit us at 43 Zik Avenue, Awka, Anambra State.
 </details>
 
 <details>
     <summary>
         Do you have a mobile app?
     </summary>
-        We run our services through our website only.
+        We operate exclusively through our website.
 </details>
 <br></br>
 
@@ -77,21 +77,21 @@
     <summary>
         Can I change my payment information?
     </summary>
-        You can change your payment information at any time.
+        Yes, you can update your banking information at any time. However, we will only send payments to a new bank account that matches your personal information.
 </details>
 
 <details>
     <summary>
         How soon will I receive my payment?
     </summary>
-        Once we confirm your airtime transfer, you should get paid in less than five minutes.
+        Once we confirm your airtime transfer, you should receive your payment within five minutes.
 </details>
 
 <details>
     <summary>
         How will I get paid?
     </summary>
-        We will credit the account number in your profile with the appropriate payout amount.
+        We will credit the bank account in your profile with the applicable payout amount.
 </details>
 
 <br></br>
